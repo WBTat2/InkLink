@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118029874724",
+    "project_id": "inklink-4d2da",
+    "storage_bucket": "inklink-4d2da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118029874724:android:4fe8a56d2ed30af59ecab1",
+        "android_client_info": {
+          "package_name": "com.example.inklink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpdKfYv5ak2h900jRJi6YZxai_hxL8KqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
