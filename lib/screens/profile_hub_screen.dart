@@ -112,7 +112,7 @@ class ProfileHubScreen extends StatelessWidget {
                   ElevatedButton(
                     onPressed: () =>
                         Navigator.pushNamed(context, AppRoutes.artistFlow),
-                    child: const Text('Edit My Profile'),
+                    child: const Text('Edit Profile'),
                   ),
 
                   ElevatedButton(
